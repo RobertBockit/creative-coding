@@ -1,0 +1,35 @@
+.back{
+
+}
+
+.img{
+    position: absolute;
+    width:100%;
+    height:100%
+
+}
+
+.header {
+
+    background-color: black;
+    width: 100%;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-family: 'Outfit', serif;
+    font-size: 22px;
+}
+html{
+    margin:0;
+    height:100%;
+}
+
+body{
+    overflow: hidden;
+    margin:0;
+    position: relative;
+    width:100%;
+    height:100%;
+
+}
