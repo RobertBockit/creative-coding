@@ -31,7 +31,7 @@ $(window).load(function(){
     image.onload = function() {
         redrawCanvas({x: -screenWidth, y: -screenHeight})
     }
-    image.src = 'https://images.pexels.com/photos/162389/lost-places-old-decay-ruin-162389.jpeg';
+    image.src = 'img/dark-room.jpeg';
 
 
     function getMousePosition(e, canvas) {
